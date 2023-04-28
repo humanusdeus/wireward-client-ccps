@@ -1,0 +1,6 @@
+#+title: Readme
+
+* Run
+#+BEGIN_SRC bash
+docker-compose up
+#+END_SRC
